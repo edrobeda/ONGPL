@@ -24,7 +24,7 @@ class ManagerController extends Controller
      */
     public function login()
     {
-        return view('auth.login');
+        return view('manager.auth.login');
 
     }
 
